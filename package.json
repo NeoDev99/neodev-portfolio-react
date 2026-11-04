@@ -1,8 +1,8 @@
 {
-  "name": "portfolio",
+  "name": "neodev-portfolio-react",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/UmbrellaSkiies/Portfolio",
+  "homepage": "https://github.com/NeoDev99/neodev-portfolio-react",
   "dependencies": {
     "@emailjs/browser": "^3.11.0",
     "@heroicons/react": "^2.0.18",
@@ -41,6 +41,7 @@
     ]
   },
   "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
     "eslint": "^8.56.0",
     "eslint-plugin-react": "^7.33.2"
   }
